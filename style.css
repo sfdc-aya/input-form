@@ -1,0 +1,10 @@
+body{
+	border: solid 5px red;
+	border-style: dotted;
+	text-align: center;
+}
+div{
+	border: solid 5px darkgrey;
+	text-align: center;
+	background-color: lightgray;
+}
